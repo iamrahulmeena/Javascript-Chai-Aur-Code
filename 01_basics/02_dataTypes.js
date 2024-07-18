@@ -20,6 +20,6 @@ let state;
 
 
 // object => Null
-
+console.log(typeof name)
 console.log(typeof null)
 console.log(typeof undefined)

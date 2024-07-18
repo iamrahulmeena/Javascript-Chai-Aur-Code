@@ -6,7 +6,7 @@ let accountDistrict  //value assign nhi kri hai toh ye undifind print krega
 
 //signal item print krne ke liye -> console.log("variable name jisko print krna hai")
 
-// console.log(accountId);
+console.log(accountId);
 
 
 // accountId=558  -> NOT allowed becouse accountid const type variable hai
